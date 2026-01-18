@@ -1,0 +1,8 @@
+{
+  "name": "MajdoorLink",
+  "description": "A comprehensive skilled labor marketplace prototype tailored for Odisha, India, featuring role-based dashboards, multi-language support (English, Odia, Hindi), and end-to-end booking workflows.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
